@@ -4,7 +4,7 @@
   <title><![CDATA[lcl22hope's Blog]]></title>
   <link href="http://lcl22hope.github.io/atom.xml" rel="self"/>
   <link href="http://lcl22hope.github.io/"/>
-  <updated>2014-03-10T22:12:05+08:00</updated>
+  <updated>2014-03-10T22:28:28+08:00</updated>
   <id>http://lcl22hope.github.io/</id>
   <author>
     <name><![CDATA[lcl22hope]]></name>
@@ -12,5 +12,23 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Hello World]]></title>
+    <link href="http://lcl22hope.github.io/blog/2014/03/10/hello-world/"/>
+    <updated>2014-03-10T22:28:12+08:00</updated>
+    <id>http://lcl22hope.github.io/blog/2014/03/10/hello-world</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Hello World]]></title>
+    <link href="http://lcl22hope.github.io/blog/2014/03/10/title/"/>
+    <updated>2014-03-10T22:23:44+08:00</updated>
+    <id>http://lcl22hope.github.io/blog/2014/03/10/title</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
   
 </feed>
